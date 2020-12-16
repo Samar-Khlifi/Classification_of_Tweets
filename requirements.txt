@@ -9,7 +9,7 @@ numpydoc == 1.1.0
 opencv-python == 4.4.0.44   
 openpyxl == 3.0.4      
 packaging == 20.4
-scikit-image == 0.23.2   
+scikit-image == 0.18.0
 scikit-learn == 0.21.2      
 watermark == 2.0.2 
 graphviz == 0.15

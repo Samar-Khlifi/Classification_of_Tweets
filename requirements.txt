@@ -9,7 +9,7 @@ numpydoc == 1.1.0
 opencv-python == 4.4.0.44   
 openpyxl == 3.0.4      
 packaging == 20.4
-scikit-image == 0.15.0     
+scikit-image == 0.23.2   
 scikit-learn == 0.21.2      
 watermark == 2.0.2 
 graphviz == 0.15
@@ -22,7 +22,6 @@ mkl-random == 1.1.1
 nltk == 3.5
 py == 1.9.0
 python-twitter == 3.5
-scikit-learn == 0.23.2
 scipy == 1.5.0
 seaborn == 0.10.1
 sklearn == 0.0

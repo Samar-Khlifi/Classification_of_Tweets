@@ -1,4 +1,4 @@
-emogi-data-python == 1.4.2
+emoji == 0.6.0
 cluster == 1.4.1.post2     
 imageio ==  2.5.0      
 imagesize == 1.1.0      
